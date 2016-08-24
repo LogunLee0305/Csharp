@@ -1,0 +1,9 @@
+G:\3_Program\Csharpmentor\Lab1\caesar\caesar\bin\Debug\caesar.exe.config
+G:\3_Program\Csharpmentor\Lab1\caesar\caesar\obj\Debug\caesar.csprojResolveAssemblyReference.cache
+G:\3_Program\Csharpmentor\Lab1\caesar\caesar\obj\Debug\caesar.Form1.resources
+G:\3_Program\Csharpmentor\Lab1\caesar\caesar\obj\Debug\caesar.Properties.Resources.resources
+G:\3_Program\Csharpmentor\Lab1\caesar\caesar\obj\Debug\caesar.csproj.GenerateResource.Cache
+G:\3_Program\Csharpmentor\Lab1\caesar\caesar\bin\Debug\caesar.exe
+G:\3_Program\Csharpmentor\Lab1\caesar\caesar\bin\Debug\caesar.pdb
+G:\3_Program\Csharpmentor\Lab1\caesar\caesar\obj\Debug\caesar.exe
+G:\3_Program\Csharpmentor\Lab1\caesar\caesar\obj\Debug\caesar.pdb
