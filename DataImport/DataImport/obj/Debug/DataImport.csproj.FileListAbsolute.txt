@@ -1,0 +1,5 @@
+G:\3_Program\Csharpmentor\Lab2\DataImport\DataImport\bin\Debug\DataImport.exe.config
+G:\3_Program\Csharpmentor\Lab2\DataImport\DataImport\bin\Debug\DataImport.exe
+G:\3_Program\Csharpmentor\Lab2\DataImport\DataImport\bin\Debug\DataImport.pdb
+G:\3_Program\Csharpmentor\Lab2\DataImport\DataImport\obj\Debug\DataImport.exe
+G:\3_Program\Csharpmentor\Lab2\DataImport\DataImport\obj\Debug\DataImport.pdb

@@ -1,0 +1,9 @@
+G:\3_Program\Csharpmentor\Lab3\receiveTemp\receiveTemp\bin\Debug\receiveTemp.exe.config
+G:\3_Program\Csharpmentor\Lab3\receiveTemp\receiveTemp\bin\Debug\receiveTemp.exe
+G:\3_Program\Csharpmentor\Lab3\receiveTemp\receiveTemp\bin\Debug\receiveTemp.pdb
+G:\3_Program\Csharpmentor\Lab3\receiveTemp\receiveTemp\obj\Debug\receiveTemp.csprojResolveAssemblyReference.cache
+G:\3_Program\Csharpmentor\Lab3\receiveTemp\receiveTemp\obj\Debug\receiveTemp.Form1.resources
+G:\3_Program\Csharpmentor\Lab3\receiveTemp\receiveTemp\obj\Debug\receiveTemp.Properties.Resources.resources
+G:\3_Program\Csharpmentor\Lab3\receiveTemp\receiveTemp\obj\Debug\receiveTemp.csproj.GenerateResource.Cache
+G:\3_Program\Csharpmentor\Lab3\receiveTemp\receiveTemp\obj\Debug\receiveTemp.exe
+G:\3_Program\Csharpmentor\Lab3\receiveTemp\receiveTemp\obj\Debug\receiveTemp.pdb

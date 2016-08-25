@@ -1,0 +1,6 @@
+G:\3_Program\Csharpmentor\Lab6\OOP_LAB6\OOP_LAB6\bin\Debug\OOP_LAB6.exe.config
+G:\3_Program\Csharpmentor\Lab6\OOP_LAB6\OOP_LAB6\bin\Debug\OOP_LAB6.exe
+G:\3_Program\Csharpmentor\Lab6\OOP_LAB6\OOP_LAB6\bin\Debug\OOP_LAB6.pdb
+G:\3_Program\Csharpmentor\Lab6\OOP_LAB6\OOP_LAB6\obj\Debug\OOP_LAB6.csprojResolveAssemblyReference.cache
+G:\3_Program\Csharpmentor\Lab6\OOP_LAB6\OOP_LAB6\obj\Debug\OOP_LAB6.exe
+G:\3_Program\Csharpmentor\Lab6\OOP_LAB6\OOP_LAB6\obj\Debug\OOP_LAB6.pdb

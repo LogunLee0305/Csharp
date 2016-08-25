@@ -1,0 +1,5 @@
+G:\3_Program\Csharpmentor\Lab4\TriangleLib\TriangleLib\bin\Debug\TriangleLib.dll
+G:\3_Program\Csharpmentor\Lab4\TriangleLib\TriangleLib\bin\Debug\TriangleLib.pdb
+G:\3_Program\Csharpmentor\Lab4\TriangleLib\TriangleLib\obj\Debug\TriangleLib.csprojResolveAssemblyReference.cache
+G:\3_Program\Csharpmentor\Lab4\TriangleLib\TriangleLib\obj\Debug\TriangleLib.dll
+G:\3_Program\Csharpmentor\Lab4\TriangleLib\TriangleLib\obj\Debug\TriangleLib.pdb

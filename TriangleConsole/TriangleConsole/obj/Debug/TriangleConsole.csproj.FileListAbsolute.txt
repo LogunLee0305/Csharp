@@ -1,0 +1,8 @@
+G:\3_Program\Csharpmentor\Lab4\TriangleConsole\TriangleConsole\bin\Debug\TriangleConsole.exe.config
+G:\3_Program\Csharpmentor\Lab4\TriangleConsole\TriangleConsole\obj\Debug\TriangleConsole.csprojResolveAssemblyReference.cache
+G:\3_Program\Csharpmentor\Lab4\TriangleConsole\TriangleConsole\bin\Debug\TriangleConsole.exe
+G:\3_Program\Csharpmentor\Lab4\TriangleConsole\TriangleConsole\bin\Debug\TriangleConsole.pdb
+G:\3_Program\Csharpmentor\Lab4\TriangleConsole\TriangleConsole\bin\Debug\TriangleLib.dll
+G:\3_Program\Csharpmentor\Lab4\TriangleConsole\TriangleConsole\bin\Debug\TriangleLib.pdb
+G:\3_Program\Csharpmentor\Lab4\TriangleConsole\TriangleConsole\obj\Debug\TriangleConsole.exe
+G:\3_Program\Csharpmentor\Lab4\TriangleConsole\TriangleConsole\obj\Debug\TriangleConsole.pdb

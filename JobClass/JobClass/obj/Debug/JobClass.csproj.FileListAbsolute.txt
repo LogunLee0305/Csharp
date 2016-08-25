@@ -1,0 +1,7 @@
+G:\3_Program\Csharpmentor\Lab5\JobClass\JobClass\bin\Debug\JobClass.exe.config
+G:\3_Program\Csharpmentor\Lab5\JobClass\JobClass\bin\Debug\JobClass.exe
+G:\3_Program\Csharpmentor\Lab5\JobClass\JobClass\bin\Debug\JobClass.pdb
+G:\3_Program\Csharpmentor\Lab5\JobClass\JobClass\bin\Debug\Core.dll
+G:\3_Program\Csharpmentor\Lab5\JobClass\JobClass\obj\Debug\JobClass.csprojResolveAssemblyReference.cache
+G:\3_Program\Csharpmentor\Lab5\JobClass\JobClass\obj\Debug\JobClass.exe
+G:\3_Program\Csharpmentor\Lab5\JobClass\JobClass\obj\Debug\JobClass.pdb
