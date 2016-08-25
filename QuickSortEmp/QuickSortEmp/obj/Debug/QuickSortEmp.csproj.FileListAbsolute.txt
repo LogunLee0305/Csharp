@@ -1,0 +1,6 @@
+G:\3_Program\Csharpmentor\Lab8\QuickSortEmp\QuickSortEmp\bin\Debug\QuickSortEmp.exe.config
+G:\3_Program\Csharpmentor\Lab8\QuickSortEmp\QuickSortEmp\bin\Debug\QuickSortEmp.exe
+G:\3_Program\Csharpmentor\Lab8\QuickSortEmp\QuickSortEmp\bin\Debug\QuickSortEmp.pdb
+G:\3_Program\Csharpmentor\Lab8\QuickSortEmp\QuickSortEmp\obj\Debug\QuickSortEmp.csprojResolveAssemblyReference.cache
+G:\3_Program\Csharpmentor\Lab8\QuickSortEmp\QuickSortEmp\obj\Debug\QuickSortEmp.exe
+G:\3_Program\Csharpmentor\Lab8\QuickSortEmp\QuickSortEmp\obj\Debug\QuickSortEmp.pdb

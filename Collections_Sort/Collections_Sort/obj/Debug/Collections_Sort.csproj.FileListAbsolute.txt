@@ -1,0 +1,6 @@
+G:\3_Program\Csharpmentor\Lab7\Collections_Sort\Collections_Sort\bin\Debug\Collections_Sort.exe.config
+G:\3_Program\Csharpmentor\Lab7\Collections_Sort\Collections_Sort\obj\Debug\Collections_Sort.csprojResolveAssemblyReference.cache
+G:\3_Program\Csharpmentor\Lab7\Collections_Sort\Collections_Sort\bin\Debug\Collections_Sort.exe
+G:\3_Program\Csharpmentor\Lab7\Collections_Sort\Collections_Sort\bin\Debug\Collections_Sort.pdb
+G:\3_Program\Csharpmentor\Lab7\Collections_Sort\Collections_Sort\obj\Debug\Collections_Sort.exe
+G:\3_Program\Csharpmentor\Lab7\Collections_Sort\Collections_Sort\obj\Debug\Collections_Sort.pdb

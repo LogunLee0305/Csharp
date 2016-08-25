@@ -1,0 +1,9 @@
+G:\3_Program\Csharpmentor\Lab10\Morse\Morse\bin\Debug\Morse.exe.config
+G:\3_Program\Csharpmentor\Lab10\Morse\Morse\bin\Debug\Morse.exe
+G:\3_Program\Csharpmentor\Lab10\Morse\Morse\bin\Debug\Morse.pdb
+G:\3_Program\Csharpmentor\Lab10\Morse\Morse\obj\Debug\Morse.csprojResolveAssemblyReference.cache
+G:\3_Program\Csharpmentor\Lab10\Morse\Morse\obj\Debug\Morse.Form1.resources
+G:\3_Program\Csharpmentor\Lab10\Morse\Morse\obj\Debug\Morse.Properties.Resources.resources
+G:\3_Program\Csharpmentor\Lab10\Morse\Morse\obj\Debug\Morse.csproj.GenerateResource.Cache
+G:\3_Program\Csharpmentor\Lab10\Morse\Morse\obj\Debug\Morse.exe
+G:\3_Program\Csharpmentor\Lab10\Morse\Morse\obj\Debug\Morse.pdb

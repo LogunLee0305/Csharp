@@ -1,0 +1,6 @@
+G:\3_Program\Csharpmentor\Lab9\Logger\Logger\bin\Debug\Logger.dll
+G:\3_Program\Csharpmentor\Lab9\Logger\Logger\bin\Debug\Logger.pdb
+G:\3_Program\Csharpmentor\Lab9\Logger\Logger\obj\Debug\Logger.dll
+G:\3_Program\Csharpmentor\Lab9\Logger\Logger\obj\Debug\Logger.pdb
+G:\3_Program\Csharpmentor\Lab9\Logger\Logger\bin\Debug\Newtonsoft.Json.dll
+G:\3_Program\Csharpmentor\Lab9\Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache

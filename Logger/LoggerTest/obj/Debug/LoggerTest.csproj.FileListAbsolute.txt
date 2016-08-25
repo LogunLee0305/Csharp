@@ -1,0 +1,11 @@
+G:\3_Program\Csharpmentor\Lab9\Logger\LoggerTest\bin\Debug\LoggerTest.exe.config
+G:\3_Program\Csharpmentor\Lab9\Logger\LoggerTest\bin\Debug\LoggerTest.exe
+G:\3_Program\Csharpmentor\Lab9\Logger\LoggerTest\bin\Debug\LoggerTest.pdb
+G:\3_Program\Csharpmentor\Lab9\Logger\LoggerTest\bin\Debug\Logger.dll
+G:\3_Program\Csharpmentor\Lab9\Logger\LoggerTest\bin\Debug\Logger.pdb
+G:\3_Program\Csharpmentor\Lab9\Logger\LoggerTest\obj\Debug\LoggerTest.csprojResolveAssemblyReference.cache
+G:\3_Program\Csharpmentor\Lab9\Logger\LoggerTest\obj\Debug\LoggerTest.exe
+G:\3_Program\Csharpmentor\Lab9\Logger\LoggerTest\obj\Debug\LoggerTest.pdb
+G:\3_Program\Csharpmentor\Lab9\Logger\LoggerTest\bin\Debug\Newtonsoft.Json.dll
+G:\3_Program\Csharpmentor\Lab9\Logger\LoggerTest\bin\Debug\Newtonsoft.Json.xml
+G:\3_Program\Csharpmentor\Lab9\Logger\LoggerTest\obj\Debug\LoggerTest.csproj.LoggerTest.exe.config
